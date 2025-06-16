@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+.products{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input{
+  width: 100px;
+}
+
+select{
+  width: 100px;
+}
+
+.btn{
+  width: 100px;
+  padding: 10px;
+  margin-top: 40px;
+}
