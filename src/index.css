@@ -19,7 +19,7 @@ table, th, td {
 }
 
 input{
-  width: 100px;
+  width: 300px;
 }
 
 select{
@@ -30,4 +30,7 @@ select{
   width: 100px;
   padding: 10px;
   margin-top: 40px;
+}
+select{
+  width: 200px;
 }
